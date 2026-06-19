@@ -1,0 +1,5 @@
+101 CityMall_Complex ONGOING 65
+102 Highway_Bridge PLANNING 10
+103 Residential_Tower ONGOING 80
+104 Office_Park COMPLETED 100
+105 Airport_Terminal PLANNING 20

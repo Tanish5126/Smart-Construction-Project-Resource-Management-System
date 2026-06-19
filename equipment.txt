@@ -1,0 +1,7 @@
+E001 Tower_Crane IN_USE
+E002 Excavator AVAILABLE
+E003 Concrete_Mixer IN_USE
+E004 Bulldozer MAINTENANCE
+E005 Scaffolding IN_USE
+E006 Forklift AVAILABLE
+E007 Compactor MAINTENANCE
